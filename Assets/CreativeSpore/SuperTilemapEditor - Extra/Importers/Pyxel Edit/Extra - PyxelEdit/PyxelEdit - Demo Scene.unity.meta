@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 236b96da3e869a049bc5bb5629070db6
+timeCreated: 1488050690
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Importers/Pyxel Edit/Extra
+    - PyxelEdit/PyxelEdit - Demo Scene.unity
+  uploadId: 749066

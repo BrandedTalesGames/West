@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fc9ec69439712f54ea34989974fedfb5
+timeCreated: 1468579569
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/TiledImporter/Editor/TmxTileProperty.cs
+  uploadId: 749066

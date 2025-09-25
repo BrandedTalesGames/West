@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38e065ea0eb3b4146843cb80418b5cd7
+timeCreated: 1488051406
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Importers/Pyxel Edit/Documentation/PyxelEditManual.txt
+  uploadId: 749066

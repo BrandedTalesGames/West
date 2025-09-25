@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 08b5523e38a5f7c4fb411b634d163893
+timeCreated: 1454756633
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/Data/ParameterContainer.cs
+  uploadId: 749066

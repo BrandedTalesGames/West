@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c1b0bc9a66960e14b82805b45d9c4863
+timeCreated: 1497468069
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/Tilemap/Brush/BrushFortySeven.cs
+  uploadId: 749066

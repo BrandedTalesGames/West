@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: f0d98f5be51926f46bc797504da5ad22
+timeCreated: 1447081318
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/Tilemap/Tileset.cs
+  uploadId: 749066

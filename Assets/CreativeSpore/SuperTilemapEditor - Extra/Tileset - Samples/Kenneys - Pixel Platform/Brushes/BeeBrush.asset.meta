@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 065b5817874b026498c335cdeaafef84
+timeCreated: 1456735652
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Tileset - Samples/Kenneys
+    - Pixel Platform/Brushes/BeeBrush.asset
+  uploadId: 749066

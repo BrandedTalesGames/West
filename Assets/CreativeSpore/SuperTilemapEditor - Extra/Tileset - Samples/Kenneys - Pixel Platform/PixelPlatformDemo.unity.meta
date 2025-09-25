@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cc75a9f0fc741684b9f35213e3939990
+timeCreated: 1454502554
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Tileset - Samples/Kenneys
+    - Pixel Platform/PixelPlatformDemo.unity
+  uploadId: 749066

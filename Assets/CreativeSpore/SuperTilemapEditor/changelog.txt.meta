@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43624e1968036654087662d36a532fdc
+timeCreated: 1461827321
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/changelog.txt
+  uploadId: 749066

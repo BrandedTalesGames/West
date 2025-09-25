@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 37a93b050ea92584cadbcab72136cd48
+timeCreated: 1456393328
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Tileset - Samples/Kenneys
+    - Pixel Platform/Spikes.prefab
+  uploadId: 749066

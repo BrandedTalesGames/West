@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f85c8baaf0481a4cb2cef2897fcc363
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/MapPathFinding/MapPathFinding.cs
+  uploadId: 749066

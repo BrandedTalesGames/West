@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2f9250be9a0195449a866ea610f77bf1
+timeCreated: 1468757489
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Tileset - Samples/Tiled
+    - Tmx Import/desert.unity
+  uploadId: 749066

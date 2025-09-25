@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec9779e7e744c654bbc696f70681cf7f
+timeCreated: 1455552427
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Tileset - Samples/Kenneys
+    - Rogue Like/Brushes/RandomBrush 5.asset
+  uploadId: 749066

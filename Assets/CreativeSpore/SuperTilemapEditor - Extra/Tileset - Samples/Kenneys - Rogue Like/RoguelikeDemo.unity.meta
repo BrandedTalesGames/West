@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6de17786ff4f8ca4da560fbbe360f84c
+timeCreated: 1455301140
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor - Extra/Tileset - Samples/Kenneys
+    - Rogue Like/RoguelikeDemo.unity
+  uploadId: 749066

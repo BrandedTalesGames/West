@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0946c56146b33894a9945b3030576ab0, type: 3}
+  m_Name: GlobalConfig
+  m_EditorClassIdentifier: 
+  TargetTicksPerSecond: 10
+  IsPaused: 0
+  StartDay: 0
+  MinutesPerTick: 10
+  BaseMoveSpeed: 2
+  Debug_All: 0
+  Debug_Time: 0
+  Debug_Movement: 0
+  Debug_Jobs: 0
+  Debug_Weather: 0

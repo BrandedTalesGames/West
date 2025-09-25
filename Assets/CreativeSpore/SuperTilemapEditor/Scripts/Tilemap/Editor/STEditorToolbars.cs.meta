@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c8ee5c77acf9e1f479bdb24ea9b7ebc1
+timeCreated: 1474972027
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/Tilemap/Editor/STEditorToolbars.cs
+  uploadId: 749066

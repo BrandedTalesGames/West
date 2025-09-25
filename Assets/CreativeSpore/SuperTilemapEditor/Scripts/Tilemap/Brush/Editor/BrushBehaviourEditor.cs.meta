@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 834561f4b6e4f88498cc37f2831f0a66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Scripts/Tilemap/Brush/Editor/BrushBehaviourEditor.cs
+  uploadId: 749066

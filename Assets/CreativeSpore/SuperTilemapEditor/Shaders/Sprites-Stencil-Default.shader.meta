@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c2f155dd9c17d344bc65cebf05625e7
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 56339
+  packageName: Super Tilemap Editor
+  packageVersion: 1.7.2
+  assetPath: Assets/CreativeSpore/SuperTilemapEditor/Shaders/Sprites-Stencil-Default.shader
+  uploadId: 749066
