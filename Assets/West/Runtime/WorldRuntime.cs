@@ -14,7 +14,7 @@ namespace West.Runtime
     public sealed class WorldRuntime : MonoBehaviour
     {
         [Header("Scene Refs (optional for M1.1)")]
-        [SerializeField] private Camera _mainCamera;
+        [SerializeField] private Camera _mainCamera = null!;
 
         private void Reset()
         {

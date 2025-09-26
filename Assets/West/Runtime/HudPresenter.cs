@@ -16,15 +16,15 @@ namespace West.Runtime.Hud
     public sealed class HudPresenter : MonoBehaviour
     {
         [Header("Bindings")]
-        [SerializeField] private Button _btnPause;
-        [SerializeField] private Button _btn1x;
-        [SerializeField] private Button _btn2x;
-        [SerializeField] private Button _btn3x;
-        [SerializeField] private Button _btn5x;
-        [SerializeField] private TMP_Text _clockLabel;
+        [SerializeField] private Button _btnPause = null!;  // <-- add = null! on all serialized fields
+        [SerializeField] private Button _btn1x   = null!;
+        [SerializeField] private Button _btn2x   = null!;
+        [SerializeField] private Button _btn3x   = null!;
+        [SerializeField] private Button _btn5x   = null!;
+        [SerializeField] private Text   _clockLabel = null!;
 
-        private EventBus _bus;
-        private TimeService _time;
+        private EventBus _bus = null!;
+        private TimeService _time = null!;
 
         private void Awake()
         {
