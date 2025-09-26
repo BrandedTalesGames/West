@@ -45,7 +45,9 @@ MonoBehaviour:
     - Opsive.Shared.Runtime
     - PackageTools
     - West.Core
+    - West.Data
     - West.Runtime
+    - West.Tools.Editor
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

@@ -47,5 +47,13 @@ namespace West.Core
                 return (T)obj;
             throw new KeyNotFoundException($"Service '{typeof(T).Name}' not found. Did boot complete?");
         }
+
+        /// <summary>Returns a service if present, else null (non-throwing).</summary>
+        public static T? TryGet<T>() where T : class
+        {
+            if (_services.TryGetValue(typeof(T), out var obj))
+                return (T)obj;
+            return null;
+        }
     }
 }

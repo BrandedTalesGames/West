@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 516227092}
   - component: {fileID: 516227091}
   m_Layer: 0
-  m_Name: Boot
+  m_Name: GameRoot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

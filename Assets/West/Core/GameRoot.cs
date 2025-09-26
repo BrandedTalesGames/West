@@ -12,6 +12,7 @@ namespace West.Core
     /// <summary>
     /// Root behaviour for the boot scene. Lives in sc_Core_Boot. Kicks off Bootstrap and survives scene loads.
     /// </summary>
+    [DefaultExecutionOrder(-1000)]
     public sealed class GameRoot : MonoBehaviour
     {
         private async void Awake()

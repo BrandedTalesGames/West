@@ -1,3 +1,16 @@
 {
-	"name": "West.Core"
+    "name": "West.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:04b10c6414a9aa54680fac5c97a97761"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

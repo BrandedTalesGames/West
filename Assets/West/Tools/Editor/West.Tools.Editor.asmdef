@@ -1,11 +1,11 @@
 {
     "name": "West.Tools.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
-    "excludePlatforms": [
-        "Editor"
+    "references": [
+        "GUID:b7b5ee812dc32414d952a109593f42f2"
     ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
