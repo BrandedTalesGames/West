@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using West.Core.Time;
+using West.Core.Grid;
 
 namespace West.Core
 {
@@ -25,12 +26,26 @@ namespace West.Core
                 Debug.LogWarning("[Boot] No TimeConfig found in Resources; using defaults.");
                 src = ScriptableObject.CreateInstance<TimeConfig>();
             }
+           
             var cfg = new TimeConfigRuntime(src);
             ServiceRegistry.Register(cfg);
 
-            // 3) Time service (holds clock)
             var timeSvc = new TimeService(cfg.SpeedMultipliers, cfg.TicksPerDay);
             ServiceRegistry.Register(timeSvc);
+
+            // === Grid ===
+            // Load authoring config (Resources/GridConfig.asset), or create defaults if missing.
+            var gridSo = Resources.Load<GridConfig>("GridConfig");
+            if (gridSo == null)
+            {
+                Debug.LogWarning("[Boot] No GridConfig found in Resources; using defaults (32 PPU, 1.0 cell, 0x0 unbounded).");
+                gridSo = ScriptableObject.CreateInstance<GridConfig>();
+            }
+
+            var gridCfg = new GridConfigRuntime(gridSo);
+            ServiceRegistry.Register(gridCfg);
+            ServiceRegistry.Register<IGridService>(new GridService(gridCfg));
+
 
             // 4) Optional debug seam (Editor/Dev builds)
 #if UNITY_EDITOR || DEVELOPMENT_BUILD
