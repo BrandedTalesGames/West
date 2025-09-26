@@ -44,6 +44,8 @@ MonoBehaviour:
     - Opsive.GraphDesigner.Runtime.Wrappers
     - Opsive.Shared.Runtime
     - PackageTools
+    - West.Core
+    - West.Runtime
     showAdvancedSettings: 0
   addMgrToSceneAutomatically: 0
   autoUpdateReferences: 1

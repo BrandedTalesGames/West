@@ -1,0 +1,16 @@
+{
+    "name": "West.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b7b5ee812dc32414d952a109593f42f2"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
